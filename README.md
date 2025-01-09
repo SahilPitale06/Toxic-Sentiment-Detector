@@ -15,7 +15,7 @@ This repository contains the code and resources for a **Toxic Sentiment Detectio
 
 ## Overview
 
-The rise of social media has led to an increase in online toxicity. This project aims to detect toxic sentiments in text-based content, helping to identify and filter harmful messages. The system is built using **Python, Flask, and Machine Learning models**.
+The rise of social media has led to an increase in online toxicity. This project aims to detect toxic sentiments in text-based content, helping to identify and filter harmful messages. The system is built using **Python, Streamlit, and Machine Learning models**.
 
 ## Features
 
